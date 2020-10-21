@@ -1,2 +1,0 @@
-# auto-green
-auto-green
